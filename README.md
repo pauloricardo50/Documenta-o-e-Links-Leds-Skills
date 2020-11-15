@@ -22,10 +22,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JavaScript](https://www.javascript.com/)
 - [MongoDB](https://www.mongodb.com/)
  
-# Demonstração da aplicação
-
-A aplicação em atividade pode ser encontrada nesse link: https://sw-gestao-competencias-dw.vercel.app/
-
 
 ## Links da pasta do google drive com os devidas documentações. 
 
