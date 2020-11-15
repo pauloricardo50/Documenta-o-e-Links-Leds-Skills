@@ -32,3 +32,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * [Product Backlog](https://drive.google.com/drive/folders/1sG-HB2w6GsRRYT3xi_5-P6gyDoZUQ_Qh?usp=sharing)
 * [Documento técnico](https://drive.google.com/drive/folders/1sG-HB2w6GsRRYT3xi_5-P6gyDoZUQ_Qh?usp=sharing) 
 * [Protótipo](https://drive.google.com/drive/folders/1sG-HB2w6GsRRYT3xi_5-P6gyDoZUQ_Qh?usp=sharing)
+
+## Repositórios do projeto
+
+* [Front](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeFront)
+* [Back](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeBack) 
