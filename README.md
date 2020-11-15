@@ -23,7 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [MongoDB](https://www.mongodb.com/)
  
 
-## Links da pasta do google drive com os devidas documentações. 
+## Documentação geral 
 
 * [Termo de abertura do projeto](https://drive.google.com/drive/folders/1sG-HB2w6GsRRYT3xi_5-P6gyDoZUQ_Qh?usp=sharing)
 * [User stories](https://drive.google.com/file/d/1T3RfMpWDyLLN5hZVLa9xvBCMLmNK_plD/view?usp=sharing) 
