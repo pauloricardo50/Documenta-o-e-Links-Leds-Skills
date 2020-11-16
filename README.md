@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * [User stories](https://drive.google.com/file/d/1T3RfMpWDyLLN5hZVLa9xvBCMLmNK_plD/view?usp=sharing) 
 * [Story maps](https://app.featmap.com/link/de9f48a2-e3c8-4b98-ab22-2a1c3fa138e5)
 * [User stories](https://drive.google.com/drive/folders/1sG-HB2w6GsRRYT3xi_5-P6gyDoZUQ_Qh?usp=sharing) 
-* [Product Backlog](https://drive.google.com/drive/folders/1sG-HB2w6GsRRYT3xi_5-P6gyDoZUQ_Qh?usp=sharing)
+* [Product Backlog](https://trello.com/b/HZuN7nHJ/ls-product-backlog)
 * [Documento técnico](https://drive.google.com/drive/folders/1sG-HB2w6GsRRYT3xi_5-P6gyDoZUQ_Qh?usp=sharing) 
 * [Protótipo](https://drive.google.com/drive/folders/1sG-HB2w6GsRRYT3xi_5-P6gyDoZUQ_Qh?usp=sharing)
 
