@@ -1,4 +1,4 @@
-# Leds-Skills -  Software de Gestão de Competências
+## Leds-Skills -  Software de Gestão de Competências
 Este projeto é resultado de um trabalho da disciplina de Laboratório de Engenharia de Software - Prof Marta 
 
 O Laboratório de desenvolvimento de soluções(LEDS) é um reduto de bastante conhecimento formado pela bagagem de cada um de seus integrantes, mas precisava encontrar um jeito de melhor organizar as informações sobre suas competências e habilidades. Afim de deixa-las mais transparentes e acessíveis e facilitar as tomadas de decisão relativas a alocação de membros, formações em grupo e demais atividades desenvolvidas no laborátório além do acompanhamento do desenvolvimento pessoal e técnico dos integrantes. O software tem por objetivo ser um facilitador na gestão das competências, permitindo seu mapeamento, armazenamento, e ainda, a exposição desses dados de forma organizada e amigável.
@@ -23,7 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [MongoDB](https://www.mongodb.com/)
  
 
-## Documentação geral 
+# Documentação geral 
 
 * [Link da Pasta Compartilhada do Projeto](https://drive.google.com/drive/folders/1sG-HB2w6GsRRYT3xi_5-P6gyDoZUQ_Qh?usp=sharing)
 * [Termo de abertura do projeto](https://drive.google.com/file/d/17Sa_L5hD-TSVHMCo6xmxw8gp9mYPfyw2/view?usp=sharing)
@@ -39,7 +39,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * [Video de apresentação 03](A Fazer)
 * [Video de apresentação 04](A Fazer)
 
-## Repositórios do projeto
+# Repositórios do projeto
 
 * [Front](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeFront)
 * [Back](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeBack) 
