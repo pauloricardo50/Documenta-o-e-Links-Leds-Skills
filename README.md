@@ -33,6 +33,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * [Documento técnico](https://drive.google.com/file/d/1jwKc2_Szu3Ao2JJRhFNjDntSOwAmX2TM/view?usp=sharing) 
 * [Protótipo](https://drive.google.com/file/d/1z_Soczpai5Yo40PhaLzFdLTvDFkd0Rdl/view?usp=sharing)
 
+# Vídeos de apresentação: 
+* [Video de apresentação 01](https://youtu.be/yBjeFwVg5vk)
+* [Video de apresentação 02](A Fazer)
+* [Video de apresentação 03](A Fazer)
+* [Video de apresentação 04](A Fazer)
+
 ## Repositórios do projeto
 
 * [Front](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeFront)
