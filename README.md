@@ -28,7 +28,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * [Link da Pasta Compartilhada do Projeto](https://drive.google.com/drive/folders/1sG-HB2w6GsRRYT3xi_5-P6gyDoZUQ_Qh?usp=sharing)
 * [Termo de abertura do projeto](https://drive.google.com/file/d/17Sa_L5hD-TSVHMCo6xmxw8gp9mYPfyw2/view?usp=sharing)
 * [User stories](https://drive.google.com/file/d/1T3RfMpWDyLLN5hZVLa9xvBCMLmNK_plD/view?usp=sharing) 
-* [Story maps](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Featmap.pdf)
+* [Story maps](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Story%20Maps%20-%20Leds%20Skills.pdf)
 * [Product Backlog](https://trello.com/b/HZuN7nHJ/ls-product-backlog)
 * [Documento técnico](https://drive.google.com/file/d/1jwKc2_Szu3Ao2JJRhFNjDntSOwAmX2TM/view?usp=sharing) 
 * [Protótipo](https://drive.google.com/file/d/1z_Soczpai5Yo40PhaLzFdLTvDFkd0Rdl/view?usp=sharing)
