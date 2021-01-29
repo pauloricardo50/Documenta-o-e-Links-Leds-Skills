@@ -34,9 +34,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * [Protótipo](https://drive.google.com/file/d/1z_Soczpai5Yo40PhaLzFdLTvDFkd0Rdl/view?usp=sharing)
 
 
-#------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Leds-Skills -  Software de Gestão de Competências -- Entrega Sprint 01
+# Leds-Skills -  Software de Gestão de Competências -- Entrega Sprint 01:
+
 As seguintes alterações foram feitas no projeto: 
 - Substituição dos Itens: Marcos, Feedbacks e Engajamento pelo mapa de competências. 
 - Reelaboração do documento técnico, termo de abertura, stoyrmaps, User Storys, Product Backlog e protótipo. 
@@ -46,6 +47,19 @@ As seguintes alterações foram feitas no projeto:
 * [Video de apresentação 02](A Fazer)
 * [Video de apresentação 03](A Fazer)
 * [Video de apresentação 04](A Fazer)
+
+##Itens da Entrega 02:
+* Correções da entrega 1 (No vídeo): 
+* [Product Backlog atualizado]
+* [Sprint Backlog]
+* [Casos de uso]
+* [Modelo lógico]
+* [Modelo Conceitual]
+* [Diagrama de estado, atividades]
+* [Projeto de dados]
+* [Documento Técnico]
+* [Primeiro Funcionamento do Software]
+* [Log versionamento]
 
 ## Repositórios do projeto
 
