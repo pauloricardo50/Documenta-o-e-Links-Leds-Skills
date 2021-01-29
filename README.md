@@ -1,4 +1,4 @@
-# Leds-Skills -  Software de Gestão de Competências
+# Leds-Skills -  Software de Gestão de Competências --Sprint de Planejamento 
 Este projeto é resultado de um trabalho da disciplina de Laboratório de Engenharia de Software - Prof Marta 
 
 O Laboratório de desenvolvimento de soluções(LEDS) é um reduto de bastante conhecimento formado pela bagagem de cada um de seus integrantes, mas precisava encontrar um jeito de melhor organizar as informações sobre suas competências e habilidades. Afim de deixa-las mais transparentes e acessíveis e facilitar as tomadas de decisão relativas a alocação de membros, formações em grupo e demais atividades desenvolvidas no laborátório além do acompanhamento do desenvolvimento pessoal e técnico dos integrantes. O software tem por objetivo ser um facilitador na gestão das competências, permitindo seu mapeamento, armazenamento, e ainda, a exposição desses dados de forma organizada e amigável.
@@ -32,6 +32,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * [Product Backlog](https://trello.com/b/HZuN7nHJ/ls-product-backlog)
 * [Documento técnico](https://drive.google.com/file/d/1jwKc2_Szu3Ao2JJRhFNjDntSOwAmX2TM/view?usp=sharing) 
 * [Protótipo](https://drive.google.com/file/d/1z_Soczpai5Yo40PhaLzFdLTvDFkd0Rdl/view?usp=sharing)
+#------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Leds-Skills -  Software de Gestão de Competências -- Entrega Sprint 01
+As seguintes alterações foram feitas no projeto: 
+- Substituição dos Itens: Marcos, Feedbacks e Engajamento pelo mapa de competências. 
+- Reelaboração do documento técnico, termo de abertura, stoyrmaps, User Storys, Product Backlog e protótipo. 
 
 ## Vídeos de apresentação: 
 * [Video de apresentação 01](https://youtu.be/yBjeFwVg5vk)
