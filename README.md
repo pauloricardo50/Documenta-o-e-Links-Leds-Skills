@@ -54,7 +54,7 @@ As seguintes alterações foram feitas no projeto:
 * [Correções da entrega 1 - Termo de Abertura](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Termo%20de%20abertura2.pdf)
 * [Correções da entrega 1 - Protótipo](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/PROTITPO%203.pdf)
 * [Product Backlog atualizado](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/PBATT.PNG)
-* [Sprint Backlog](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Sprint%20Backlog3.pdf) - Caso não consiga enxergar professora, mando o link do miro, pra exportar ele reduz o tamanho. :( 
+* [Sprint Backlog](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Sprint%20Backlog3.pdf) - Caso não consiga enxergar professora, mando o link do miro, pra exportar ele reduz o tamanho. 
 * [Casos de uso](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20de%20Casos%20de%20Uso%20e%20Classes.pdf)
 * [Modelo lógico](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20-%20CASOS%20DE%20USO%20-%20CLASSES%20-%20PROJ%20DADOS.pdf)
 * [Modelo Conceitual](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20-%20CASOS%20DE%20USO%20-%20CLASSES%20-%20PROJ%20DADOS.pdf)
