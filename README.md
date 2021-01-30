@@ -44,7 +44,7 @@ As seguintes alterações foram feitas no projeto:
 
 ## Vídeos de apresentação: 
 * [Video de apresentação 01](https://youtu.be/yBjeFwVg5vk)
-* [Video de apresentação 02](A Fazer)
+* [Video de apresentação 02](https://youtu.be/MbSwe0kv6vo)
 * [Video de apresentação 03](A Fazer)
 * [Video de apresentação 04](A Fazer)
 
