@@ -52,19 +52,19 @@ As seguintes alterações foram feitas no projeto:
 * Correções da entrega 1 (No vídeo): 
 * [Product Backlog atualizado](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/PBATT.PNG)
 * [Sprint Backlog](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Sprint%20Backlog3.pdf) - Caso não consiga enxergar professora, mando o link do miro, pra exportar ele reduz o tamanho. :( 
-* [Casos de uso] (https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20de%20Casos%20de%20Uso%20e%20Classes.pdf)
-* [Modelo lógico] (https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20-%20CASOS%20DE%20USO%20-%20CLASSES%20-%20PROJ%20DADOS.pdf)
-* [Modelo Conceitual] (https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20-%20CASOS%20DE%20USO%20-%20CLASSES%20-%20PROJ%20DADOS.pdf)
-* [Diagrama de estado CADPRO]
-* [Diagrama de estado CADU]
-* [Diagrama de estado CSS]
-* [Diagrama de atividades]
-* [Projeto de dados] (https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20-%20CASOS%20DE%20USO%20-%20CLASSES%20-%20PROJ%20DADOS.pdf)
-* [Documento Técnico] https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Documento%20T%C3%A9cnico%20-%202.pdf
-* [Primeiro Funcionamento do Software] (https://ledsskills.herokuapp.com/)
-* [Log versionamento Front] (https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeFront/commits/main)
-* [Log versionamento Back] (https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeBack/commits/main)
-* [Log versionamento Documentação] (https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/commits/main)
+* [Casos de uso](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20de%20Casos%20de%20Uso%20e%20Classes.pdf)
+* [Modelo lógico](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20-%20CASOS%20DE%20USO%20-%20CLASSES%20-%20PROJ%20DADOS.pdf)
+* [Modelo Conceitual](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20-%20CASOS%20DE%20USO%20-%20CLASSES%20-%20PROJ%20DADOS.pdf)
+* [Diagrama de estado CADPRO](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/CADPRO%20ESTADO.png)
+* [Diagrama de estado CADU](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20de%20Estados%20-%20Login.png)
+* [Diagrama de estado CSS](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/CSS%20-%20ESTADO.png)
+* [Diagrama de atividades](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/DiagramaAtividadesLES.png)
+* [Projeto de dados](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20-%20CASOS%20DE%20USO%20-%20CLASSES%20-%20PROJ%20DADOS.pdf)
+* [Documento Técnico](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Documento%20T%C3%A9cnico%20-%202.pdf)
+* [Primeiro Funcionamento do Software](https://ledsskills.herokuapp.com/)
+* [Log versionamento Front](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeFront/commits/main)
+* [Log versionamento Back](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeBack/commits/main)
+* [Log versionamento Documentação](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/commits/main)
 
 ## Repositórios do projeto
 
