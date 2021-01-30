@@ -44,7 +44,7 @@ As seguintes alterações foram feitas no projeto:
 
 ## Vídeos de apresentação: 
 * [Video de apresentação 01](https://youtu.be/yBjeFwVg5vk)
-* [Video de apresentação 02](https://youtu.be/MbSwe0kv6vo) - [Slide da apresentação](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Leds%20Skilss%20Segund%20Entrega.pdf) [Video da Ferramenta Funcionando em Produção](https://youtu.be/J9_zLok5Pj8)
+* [Video de apresentação 02](https://youtu.be/MbSwe0kv6vo) - [Slide da apresentação](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Leds%20Skilss%20Segund%20Entrega.pdf) - [Video da Ferramenta Funcionando em Produção](https://youtu.be/J9_zLok5Pj8)
 * [Video de apresentação 03](A Fazer)
 * [Video de apresentação 04](A Fazer)
 
