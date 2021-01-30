@@ -36,7 +36,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Leds-Skills -  Software de Gestão de Competências -- Entrega Sprint 01:
+# Leds-Skills -  Software de Gestão de Competências -- Entrega Sprint 01-30/01/2021:
 
 As seguintes alterações foram feitas no projeto: 
 - Substituição dos Itens: Marcos, Feedbacks e Engajamento pelo mapa de competências. 
