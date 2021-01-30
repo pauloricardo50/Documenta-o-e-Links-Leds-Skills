@@ -23,7 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [MongoDB](https://www.mongodb.com/)
  
 
-## Documentação geral 
+## Documentação geral (PRIMEIRA VERSÃO, A VERSÃO ATUALIZADA ESTÁ ABAIXO)
 
 * [Link da Pasta Compartilhada do Projeto](https://drive.google.com/drive/folders/1sG-HB2w6GsRRYT3xi_5-P6gyDoZUQ_Qh?usp=sharing)
 * [Termo de abertura do projeto](https://drive.google.com/file/d/17Sa_L5hD-TSVHMCo6xmxw8gp9mYPfyw2/view?usp=sharing)
@@ -52,6 +52,7 @@ As seguintes alterações foram feitas no projeto:
 * [Correções da entrega 1 - User Storys](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Hist%C3%B3rias%20de%20Usu%C3%A1rio%20(2).pdf) - os demais estão abaixo, conforme atualizados. 
 * [Correções da entrega 1 - Story Maps](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/story%20maps%202.pdf)
 * [Correções da entrega 1 - Termo de Abertura](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Termo%20de%20abertura2.pdf)
+* [Correções da entrega 1 - Protótipo](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/PROTITPO%203.pdf)
 * [Product Backlog atualizado](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/PBATT.PNG)
 * [Sprint Backlog](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Sprint%20Backlog3.pdf) - Caso não consiga enxergar professora, mando o link do miro, pra exportar ele reduz o tamanho. :( 
 * [Casos de uso](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20de%20Casos%20de%20Uso%20e%20Classes.pdf)
