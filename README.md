@@ -64,7 +64,7 @@ As seguintes alterações foram feitas no projeto:
 * [Diagrama de atividades](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/DiagramaAtividadesLES.png)
 * [Projeto de dados](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Diagrama%20-%20CASOS%20DE%20USO%20-%20CLASSES%20-%20PROJ%20DADOS.pdf)
 * [Documento Técnico](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Documento%20T%C3%A9cnico%20-%202.pdf)
-* [Primeiro Funcionamento do Software](https://ledsskills.herokuapp.com/) - Tivemos um problema com o heroku, estamos corrigindo, até segunda a noite provavelmente vai estar funcionando. Desculpe o transtorno. 
+* [Primeiro Funcionamento do Software](https://ledsskills.herokuapp.com/)
 * [Log versionamento Front](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeFront/commits/main)
 * [Log versionamento Back](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeBack/commits/main)
 * [Log versionamento Documentação](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/commits/main)
