@@ -10,7 +10,7 @@ O sistema será web e conterá dois tipos de usuários,sendo eles:
 Admin (Administrador) - Professor orientador do laboratório, com liberdade de criar,editar,consultar e exlcuir projetos entre outros;
 Comum (Aluno) - Quem utiliza o sistema para controlar atividades realizadas. 
 
-O administrador realiza o cadastro dos projetos, marcos e feedbacks. O aluno registra as atividades, a partir da participação em um projeto.
+O administrador realiza o cadastro dos projetos, e valida as competencias. O aluno registra as atividades, a partir da participação em um projeto.
 
 
 ## Tecnologias utilizadas
