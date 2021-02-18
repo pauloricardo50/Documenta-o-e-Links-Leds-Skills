@@ -95,3 +95,12 @@ As seguintes alterações foram feitas no projeto:
 ##Itens da Entrega 03:
 
 
+## Repositórios do projeto
+
+* [Front](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeFront)
+* [Back](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeBack) 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Leds-Skills -  Software de Gestão de Competências -- Entrega Sprint 02-19/03/2021:
