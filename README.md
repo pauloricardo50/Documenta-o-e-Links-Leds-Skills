@@ -106,7 +106,7 @@ As seguintes alterações foram feitas no projeto:
 * [Modelo Conceitual](No Slide)
 * [Diagrama de estado CAA](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/ES03.png)
 * [Diagrama de atividades](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/AT03.png)
-* [Documento Técnico](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Documento%20T%C3%A9cnico%20-%202.pdf)
+* [Documento Técnico](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/Documento%20T%C3%A9cnico%20-%203.pdf)
 * [Acesso a Ferramenta](https://ledsskills.herokuapp.com/)
 * [Log versionamento Front](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeFront/commits/main)
 * [Log versionamento Back](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeBack/commits/main)
