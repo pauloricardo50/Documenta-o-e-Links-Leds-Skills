@@ -92,8 +92,25 @@ As seguintes alterações foram feitas no projeto:
 * [Video de apresentação 03](A Fazer)
 * [Video de apresentação 04](A Fazer)
 
-##Itens da Entrega 03:
+## Itens da Entrega 03:
 
+
+* [Correções da entrega 1 - User Storys](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/Hist%C3%B3rias%20de%20Usu%C3%A1rio%20(3).pdf) - os demais estão abaixo, conforme atualizados. 
+* [Correções da entrega 1 - Story Maps](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/story%20maps%203.pdf)
+* [Correções da entrega 1 - Termo de Abertura](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/Termo%20de%20abertura%203.pdf)
+* [Correções da entrega 1 - Protótipo](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/prto%2003.pdf)
+* [Product Backlog atualizado](No Slide)
+* [Sprint Backlog](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/Sprint%20Backlog33.pdf) - Caso não consiga enxergar professora, mando o link do miro, pra exportar ele reduz o tamanho. 
+* [Casos de uso](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/CU03.png)
+* [Modelo lógico](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/DIAGR%20LOGICO.PNG)
+* [Modelo Conceitual](No Slide)
+* [Diagrama de estado CAA](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/ES03.png)
+* [Diagrama de atividades](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/AT03.png)
+* [Documento Técnico](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Documento%20T%C3%A9cnico%20-%202.pdf)
+* [Primeiro Funcionamento do Software](https://ledsskills.herokuapp.com/)
+* [Log versionamento Front](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeFront/commits/main)
+* [Log versionamento Back](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeBack/commits/main)
+* [Log versionamento Documentação](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/commits/main)
 
 ## Repositórios do projeto
 
