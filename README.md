@@ -89,7 +89,7 @@ As seguintes alterações foram feitas no projeto:
 ## Vídeos de apresentação: 
 * [Video de apresentação 01](https://youtu.be/yBjeFwVg5vk)
 * [Video de apresentação 02](https://youtu.be/MbSwe0kv6vo) - [Slide da apresentação](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Leds%20Skilss%20Segund%20Entrega.pdf) - [Video da Ferramenta Funcionando em Produção](https://youtu.be/J9_zLok5Pj8)
-* [Video de apresentação 03](A Fazer)
+* [Video de apresentação 03](A Fazer) - [Slide da apresentação](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/Leds%20Skilss%20Terceira%20Sprint.pdf) - [Video da Ferramenta Funcionando em Produção] (Vem Ai)
 * [Video de apresentação 04](A Fazer)
 
 ## Itens da Entrega 03:
@@ -107,7 +107,7 @@ As seguintes alterações foram feitas no projeto:
 * [Diagrama de estado CAA](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/ES03.png)
 * [Diagrama de atividades](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/AT03.png)
 * [Documento Técnico](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2002%20-%20Sprint%2001/Documento%20T%C3%A9cnico%20-%202.pdf)
-* [Primeiro Funcionamento do Software](https://ledsskills.herokuapp.com/)
+* [Acesso a Ferramenta](https://ledsskills.herokuapp.com/)
 * [Log versionamento Front](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeFront/commits/main)
 * [Log versionamento Back](https://github.com/Guilherme-Bodart/SwGestaoCompetenciasCeBack/commits/main)
 * [Log versionamento Documentação](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/commits/main)
