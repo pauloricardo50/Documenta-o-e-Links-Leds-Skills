@@ -99,11 +99,11 @@ As seguintes alterações foram feitas no projeto:
 * [Correções da entrega 2 - Story Maps](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/story%20maps%203.pdf)
 * [Correções da entrega 2 - Termo de Abertura](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/Termo%20de%20abertura%203.pdf)
 * [Correções da entrega 2 - Protótipo](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/prto%2003.pdf)
-* [Product Backlog atualizado](No Slide)
+* [Product Backlog atualizado](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/BACKLOG%203.PNG)
 * [Sprint Backlog](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/Sprint%20Backlog33.pdf) - Caso não consiga enxergar professora, mando o link do miro, pra exportar ele reduz o tamanho. 
 * [Casos de uso](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/CU03.png)
 * [Modelo lógico](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/DIAGR%20LOGICO.PNG)
-* [Modelo Conceitual](No Slide)
+* [Modelo Conceitual Atualizado](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/DIAG%20CLASSE%203.PNG)
 * [Diagrama de estado CAA](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/ES03.png)
 * [Diagrama de atividades](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/AT03.png)
 * [Documento Técnico](https://github.com/pauloricardo50/Documenta-o-e-Links-Leds-Skills/blob/main/Entrega%2003/Documento%20T%C3%A9cnico%20-%2033.pdf)
